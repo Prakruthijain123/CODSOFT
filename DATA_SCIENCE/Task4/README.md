@@ -9,7 +9,7 @@ This project uses the classic **Advertising dataset** to build a regression pipe
 ## 📂 Project Structure
 
 ```
-Task4_Sales_Prediction_Using_Python/
+Task4/
 ├── sales_prediction_using_python.py   # Main script (analysis, training, evaluation, prediction)
 ├── advertising.csv                    # Raw dataset (200 records)
 ├── sales_prediction_pipeline.pkl      # Saved model + scaler (joblib)
