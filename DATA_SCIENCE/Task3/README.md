@@ -9,7 +9,7 @@ This project uses the classic **Iris dataset** to build a multi-class classifica
 ## 📂 Project Structure
 
 ```
-Task3_Iris_Flower_Classification/
+Task3/
 ├── iris_flower_classification.py   # Main script (visualization, training, evaluation, prediction)
 ├── IRIS.csv                        # Raw dataset (150 flower samples)
 ├── iris_pipeline.pkl               # Saved model + scaler + label encoder (joblib)
