@@ -107,15 +107,15 @@ Scikit-learn, and Joblib.
 ## Project Structure
 
 ``` text
-Titanic-Survival-Prediction/
+Task1/
 │
-├── dataset/
-│   └── titanic.csv
-│
+├── Titanic-Dataset.csv
 ├── model_comparison.png
+├── titanic_data_insights.png
 ├── titanic_confusion_matrix.png
+├── titanic_pipeline.pkl
 ├── requirements.txt
-├── train_model.py
+├── titanic_survival_prediction.py
 └── README.md
 ```
 
