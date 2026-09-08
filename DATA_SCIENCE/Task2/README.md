@@ -9,7 +9,7 @@ This project uses the **IMDb India Movies** dataset to build a regression pipeli
 ## 📂 Project Structure
 
 ```
-Task2_Movie_Rating_Prediction_with_Python/
+Task2/
 ├── movie_rating_prediction.py       # Main script (cleaning, training, evaluation, prediction)
 ├── IMDb_Movies _India.csv           # Raw dataset (~15.5K Indian movies)
 ├── movie_rating_pipeline.pkl        # Saved model + scaler + encodings (joblib)
